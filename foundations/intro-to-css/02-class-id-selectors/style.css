@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.red-font {
+    background-color: #e8387b;
+    font: Verdana, 'DejaVu Sans' , sans-serif
+}
+
+#blue-BIG {
+    color: #0fbbeb;
+    font-size: 36px;
+}
+
+.notsoBIG {
+    font-size: 24px;
+}
+
+#numero-Four {
+    background-color: #5fd46f;
+    font-weight: bold;
+}
